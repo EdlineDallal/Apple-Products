@@ -1,6 +1,6 @@
 # Apple Product Price Analysis (2022)
 - Working with this dataset allowed me to practice cleaning data that had various issues with data types in the price column. This experience was valuable for improving my skills in data analysis and is a good practice exercise for junior data analysts.
-- urthermore, the insights obtained by analyzing this data are very insightful. For example, it was discovered that lower-income countries do not necessarily receive the lowest or cheapest price for Apple products. Instead, although lower-income countries have the lowest price, it is extremely close to the prices in high-income countries.
+- Furthermore, the insights obtained by analyzing this data are very insightful. For example, it was discovered that lower-income countries do not necessarily receive the lowest or cheapest price for Apple products. Instead, although lower-income countries have the lowest price, it is extremely close to the prices in high-income countries.
 
 ## Overview
 This project analyzes the price of Apple products across 26 countries, downloaded from Kaggle and scraped from Apple's gifts page as of January 2nd, 2022. The analysis focuses on the average price paid by customers in each country, the average price in each region, and the correlation between the World Bank income group and the product prices.
